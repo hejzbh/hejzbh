@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🚀 Mastery of Current Skills: Continuously refine and elevate existing skills to the highest proficiency level.<br><br>- 🌐 Web3 Development Expertise: Dive into the realm of Web3 development, acquiring in-depth knowledge of decentralized technologies, blockchain, and smart contracts.<br><br>- 🎨 Advanced Web Animation: Explore and master the intricacies of creating sophisticated web animations, aiming for a seamless and visually captivating user experience.<br><br>- 🔄 Lifelong Learning: Foster a commitment to lifelong learning, embracing new technologies, methodologies, and best practices to stay at the forefront of the ever-evolving tech landscape.<br><br>- 🌍 Global Collaboration: Actively engage in collaborative projects, contributing to a diverse and global community to broaden perspectives and share knowledge.</p>
+<p align="left">- 🚀<b>Mastery of Current Skills</b>: Continuously refine and elevate existing skills to the highest proficiency level.<br><br>- 🌐 Web3 Development Expertise: Dive into the realm of Web3 development, acquiring in-depth knowledge of decentralized technologies, blockchain, and smart contracts.<br><br>- 🎨 Advanced Web Animation: Explore and master the intricacies of creating sophisticated web animations, aiming for a seamless and visually captivating user experience.<br><br>- 🔄 Lifelong Learning: Foster a commitment to lifelong learning, embracing new technologies, methodologies, and best practices to stay at the forefront of the ever-evolving tech landscape.<br><br>- 🌍 Global Collaboration: Actively engage in collaborative projects, contributing to a diverse and global community to broaden perspectives and share knowledge.</p>
 
 ###
 
