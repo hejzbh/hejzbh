@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi there 👋</h1>
 
 ###
 
-<p align="left">Hi there! I'm Hazim, a passionate JavaScript developer with a love for Frontend Development. I enjoy solving complex problems and constantly learning new things to enhance my skills. My primary focus is on web development, and in addition to that,  I also specialize in developing mobile applications.</p>
+<p align="left">I'm Hazim, a passionate JavaScript developer with a love for Frontend Development. I enjoy solving complex problems and constantly learning new things to enhance my skills. My primary focus is on web development, and in addition to that,  I also specialize in developing mobile applications.</p>
 
 ###
 
